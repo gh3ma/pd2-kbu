@@ -5,7 +5,6 @@
 int main() {
     int a, b, sum, sum1, counter = 1;
     srand(time(NULL));
-
     a = 1 + rand() % 6;
     b = 1 + rand() % 6;
     sum = a +b;
