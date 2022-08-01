@@ -1,4 +1,4 @@
-# Install script for directory: D:/prgramlama/pd2-kbu/week 2
+# Install script for directory: D:/prgramlama/pd2-kbu/week 2/Homework
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/prgramlama/pd2-kbu/week 2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/prgramlama/pd2-kbu/week 2/Homework/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
